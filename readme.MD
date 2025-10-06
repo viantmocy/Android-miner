@@ -1,7 +1,6 @@
 
 
 
----
 
 <h1 align="center">💎 Droidminer by Leafia 💎</h1><p align="center">
   <img src="https://img.shields.io/badge/Platform-Android%20%7C%20Termux-magenta?style=for-the-badge" />
@@ -41,8 +40,9 @@ Riecoin (RIC) → RIC-rieminer
 
 📥 Instalasi
 
-<details>
-<summary>📋 Copy Instalasi Android-miner</summary>pkg update -y && pkg upgrade -y
+Salin dan jalankan di Termux:
+
+```pkg update -y && pkg upgrade -y
 pkg install -y git
 
 git clone https://github.com/viantmocy/Android-miner
@@ -50,7 +50,11 @@ cd Android-miner
 chmod +x installer.sh
 ./installer.sh
 
-</details>
+> ⚡ Tombol copy otomatis muncul di pojok kanan atas di GitHub.
+
+
+
+
 ---
 
 ▶️ Cara Menjalankan
@@ -77,25 +81,10 @@ Setelah instalasi selesai, jalankan:
 🌸 Preview Menu
 
 ═════════════════════════════════════
-       💎 Droidminer 💎
+             💎 Droidminer 💎
 ═════════════════════════════════════
  [1] Start Verus (VRSC) Miner
  [2] Start Yenten (YTN) Miner
  [3] Start Riecoin (RIC) Miner
  [4] Edit Config Miner
- [5] Stop semua miner
- [6] Keluar
-═════════════════════════════════════
 
-
----
-
-💕 Catatan
-
-Script ini dibuat dengan penuh cinta oleh Leafia 💖
-
-Cocok untuk eksperimen mining di Android phone farm.
-Tidak direkomendasikan untuk penggunaan komersial.
-
-
----
