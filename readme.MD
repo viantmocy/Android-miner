@@ -52,16 +52,14 @@ chmod +x installer.sh
 
 
 
----
 
 ▶️ Cara Menjalankan
 
 Setelah instalasi selesai, jalankan:
 
-```./droidminer
+./droidminer
 
 
----
 
 📂 Struktur Folder
 
@@ -73,7 +71,7 @@ Setelah instalasi selesai, jalankan:
  └── droidminer     # Menu utama
 
 
----
+
 
 🌸 Preview Menu
 
