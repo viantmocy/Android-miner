@@ -1,4 +1,6 @@
 
+
+
 ---
 
 <h1 align="center">💎 Droidminer by Leafia 💎</h1><p align="center">
@@ -45,7 +47,7 @@ pkg update -y && pkg upgrade -y
 pkg install -y git
 
 <details>
-<summary>📋 Clone Repo Android-miner <small>(Klik copy)</small></summary>git clone https://github.com/viantmocy/Android-miner
+<summary>📋 Clone Repo Android-miner</summary>git clone https://github.com/viantmocy/Android-miner
 cd Android-miner
 chmod +x installer.sh
 ./installer.sh
