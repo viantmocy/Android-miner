@@ -41,13 +41,11 @@ Riecoin (RIC) → RIC-rieminer
 
 📥 Instalasi
 
-Salin perintah ini di Termux:
-
-pkg update -y && pkg upgrade -y
+<details>
+<summary>📋 Copy Instalasi Android-miner</summary>pkg update -y && pkg upgrade -y
 pkg install -y git
 
-<details>
-<summary>📋 Clone Repo Android-miner</summary>git clone https://github.com/viantmocy/Android-miner
+git clone https://github.com/viantmocy/Android-miner
 cd Android-miner
 chmod +x installer.sh
 ./installer.sh
@@ -101,4 +99,3 @@ Tidak direkomendasikan untuk penggunaan komersial.
 
 
 ---
-
