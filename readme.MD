@@ -31,7 +31,7 @@
 
 ## 📥 Instalasi
 
-Salin perintah ini di Termux:
+> Salin perintah ini di **Termux** (ada tombol copy otomatis di pojok kanan atas blok kode ⬇️)
 
 ```bash
 pkg update -y && pkg upgrade -y
@@ -91,4 +91,3 @@ Cocok untuk eksperimen mining di Android phone farm.
 
 
 ---
-
