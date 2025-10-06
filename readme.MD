@@ -1,7 +1,5 @@
 
 
----
-
 <h1 align="center">💎 Droidminer by Leafia 💎</h1>
 
 <p align="center">
@@ -20,14 +18,14 @@
 ---
 
 ## ✨ Fitur
-- 🎨 **Menu interaktif** dengan tema magenta
+- 🎨 **Menu interaktif** dengan tema magenta  
 - ⛏️ Support 3 koin utama:
   - Verus (VRSC) → [pocominer](https://github.com/viantmocy/pocominer)
   - Yenten (YTN) → [yentenku](https://github.com/viantmocy/yentenku)
   - Riecoin (RIC) → [RIC-rieminer](https://github.com/viantmocy/RIC-rieminer)
-- 📝 **Edit config** langsung dari menu (wallet, pool, threads)
-- 🚀 Jalankan cepat dengan perintah `droidminer`
-- 🔧 **Stop/Start** miner sekali klik
+- 📝 **Edit config** langsung dari menu (wallet, pool, threads)  
+- 🚀 Jalankan cepat dengan perintah `droidminer`  
+- 🔧 **Stop/Start** miner sekali klik  
 
 ---
 
@@ -90,9 +88,5 @@ Script ini dibuat dengan penuh cinta oleh Leafia 💖
 
 Cocok untuk eksperimen mining di Android phone farm.
 Tidak direkomendasikan untuk penggunaan komersial.
-
-
----
-
 
 
