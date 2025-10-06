@@ -1,7 +1,4 @@
 
-
-
-
 <h1 align="center">💎 Droidminer by Leafia 💎</h1><p align="center">
   <img src="https://img.shields.io/badge/Platform-Android%20%7C%20Termux-magenta?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Language-Bash-green?style=for-the-badge" />
@@ -61,7 +58,7 @@ chmod +x installer.sh
 
 Setelah instalasi selesai, jalankan:
 
-./droidminer
+```./droidminer
 
 
 ---
