@@ -42,10 +42,10 @@ cd Android-miner
 chmod +x installer.sh
 ./installer.sh
 
-
+---
 ---
 
-▶️ Cara Menjalankan
+## ▶️ Cara Menjalankan
 
 Setelah instalasi selesai, cukup jalankan:
 
